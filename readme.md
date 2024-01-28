@@ -1,6 +1,9 @@
-<div style="text-align: center;">
-    <img src="https://media1.tenor.com/m/Jc9jT66AJRwAAAAd/chipi-chipi-chapa-chapa.gif" alt="Meow" width="" />
+<div align="center">
+
+![MEOW](https://steamuserimages-a.akamaihd.net/ugc/2313225476168302122/2F8323CDD3A4876E178193C8926C2C6C12215EEC/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)
+
 </div>
+
 
 ---
 
