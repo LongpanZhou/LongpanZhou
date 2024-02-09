@@ -13,7 +13,7 @@
 class SoftwareEngineer:
 
     def __init__(self):
-        self.name = "Longpan ZHou"
+        self.name = "Longpan Zhou"
         self.role = "Software Engineer"
         self.language= ["Python3", "Java", "JavaScript"]
 
