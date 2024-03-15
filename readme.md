@@ -1,12 +1,3 @@
-<div align="center">
-
-![MEOW](https://steamuserimages-a.akamaihd.net/ugc/2313225476168302122/2F8323CDD3A4876E178193C8926C2C6C12215EEC/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)
-
-</div>
-
-
----
-
 ![Typing](https://readme-typing-svg.demolab.com?pause=1000&color=000000&random=false&width=435&height=30&lines=Hi!+I+am+Longpan+Zhou.)
 ```python
 #!/usr/bin/python
