@@ -6,7 +6,7 @@ class SoftwareEngineer:
     def __init__(self):
         self.name = "Longpan Zhou"
         self.role = "Software Engineer"
-        self.language= ["Python3", "Java", "JavaScript"]
+        self.language= ["Python3", "C++", "Java", "Javascript"]
 
     def __call__(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
